@@ -1,0 +1,200 @@
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\ApplicationInsights.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Psicologia.dll.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Psicologia.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Psicologia.pdb
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csc.exe
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csc.exe.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csc.rsp
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csi.exe
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csi.exe.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\csi.rsp
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.AppContext.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Console.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Diagnostics.Process.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.IO.Compression.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.IO.FileSystem.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.IO.Pipes.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.AccessControl.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Claims.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Threading.Thread.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.ValueTuple.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Xml.XPath.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\vbc.exe
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\vbc.exe.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\vbc.rsp
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Antlr3.Runtime.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.Web.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Newtonsoft.Json.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Helpers.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Mvc.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Optimization.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Razor.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\WebGrease.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Helpers.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Mvc.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Optimization.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.Razor.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Newtonsoft.Json.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Antlr3.Runtime.pdb
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.AI.Web.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.Helpers.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.Mvc.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.Optimization.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.Razor.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.WebPages.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\obj\Debug\Psicologia.csprojAssemblyReference.cache
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\obj\Debug\Psicologia.csproj.CoreCompileInputs.cache
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\obj\Debug\Psicologia.csproj.CopyComplete
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\obj\Debug\Psicologia.dll
+D:\Desktop\HACKATHON\Proyecto_psicologia\Psicologia\Psicologia\obj\Debug\Psicologia.pdb
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Psicologia.dll.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Psicologia.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Psicologia.pdb
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\WebGrease.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\obj\Debug\Psicologia.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\obj\Debug\Psicologia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\obj\Debug\Psicologia.csproj.CopyComplete
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\obj\Debug\Psicologia.dll
+C:\Users\User\Desktop\Psicologia - Copy\Psicologia\obj\Debug\Psicologia.pdb

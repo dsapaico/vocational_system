@@ -1,0 +1,52 @@
+﻿@*@model IEnumerable<Psicologia.Models.Pregunta>*@
+
+@{
+    ViewBag.Title = "MantenimientoPreguntas";
+}
+
+<h2>Mantenimiento Preguntas</h2>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 513px; margin: 20px 0px">
+    <label  class="control-label">Seleccione un Test</label>  
+    <select style="display: flex"  class="form-control">
+        <option>Elija</option>
+        <option>Casm</option>
+        <option>Holland</option>
+    </select>
+</div>
+<div style="display:flex; justify-content:space-between; align-items:center; width: 610px ;margin: 0px 0px 20px 0px">
+    <label  class="control-label">Digite el número de item del test</label> <input type="text" class="form-control"/>
+    <input type="submit" value="Agregar" class="btn btn-primary"/>
+</div>
+
+@*<p>
+    @Html.ActionLink("Agregar Nueva Pregunta", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("idPregunta")
+        </th>                
+        <th>                 
+            @Html.DisplayName("Preguntaa")
+        </th>
+        <th></th>
+    </tr>
+
+@*@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idPregunta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Preguntaa)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}*@
+
+</table>

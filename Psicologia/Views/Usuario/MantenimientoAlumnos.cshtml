@@ -1,0 +1,54 @@
+﻿@*@model IEnumerable<Psicologia.Models.Usuario>*@
+
+@{
+    ViewBag.Title = "MantenimientoAlumnos";
+}
+
+<h2>Mantenimiento Alumnos</h2>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 500px; margin: 40px 0px">
+    <label class="text-primary">Buscar : </label> <input type="text" placeholder="Nombre de alumno" class="form-control" /> <input type="submit" value="Buscar" class="btn btn-primary" />
+</div>
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Codigo")
+        </th>
+        <th>
+            @Html.DisplayName("Nombres")
+        </th>
+        <th>
+            @Html.DisplayName("Apellidos")
+        </th>
+
+        <th></th>
+    </tr>
+
+    @*@foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codigo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombres)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellidos)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }*@
+
+</table>
+
+<p>
+    @Html.ActionLink("Agregar Nuevo Alumno", "RegistroUsuario", new { htmlAttributes = new { @class = "btn btn-primary" } })
+</p>

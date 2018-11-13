@@ -1,0 +1,101 @@
+﻿@*@model IEnumerable<Psicologia.Models.Usuario>*@
+
+@{
+    ViewBag.Title = "MantenimientoReglas";
+}
+
+<h2>Mantenimiento de Reglas</h2>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 1000px ;margin: 0px 0px 20px 0px; margin: 20px 0px">
+    <label class="control-label">Personalidad Ocupacional : </label>
+    <select class="form-control">
+        <option>Elegir</option>
+        <option>Realista</option>
+        <option>2019</option>
+    </select>
+    <label class="control-label">Área Ocupacional : </label>
+    <select class="form-control">
+        <option>Elegir</option>
+        <option>Jurisprudencia</option>
+        <option>2</option>
+    </select>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 1200px ;margin: 0px 0px 20px 0px; margin: 30px 0px">
+    <label class="control-label">Carrera 1 : </label>
+    <select class="form-control">
+        <option>Abogado</option>
+        <option>2018</option>
+        <option>2019</option>
+    </select>
+    <label class="control-label">Carrera 2 : </label>
+    <select class="form-control">
+        <option>Ingeniero</option>
+        <option>1</option>
+        <option>2</option>
+    </select>
+    <label class="control-label">Carrera 3 : </label>
+    <select class="form-control">
+        <option>Doctor</option>
+        <option>Jurisprudencia</option>
+        <option>2</option>
+    </select>
+</div>
+<input type="submit" value="Agregar" class="btn btn-primary" style="margin-bottom:25px" />
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("IdRegla")
+        </th>
+        <th>
+            @Html.DisplayName("IdPersonalidadOcupacion")
+        </th>
+        <th>
+            @Html.DisplayName("IdAreaOcupacion")
+        </th>
+        <th>
+            @Html.DisplayName("IdCarrera1")
+        </th>
+        <th>
+            @Html.DisplayName("IdCarrera2")
+        </th>
+        <th>
+            @Html.DisplayName("IdCarrera3")
+        </th>
+        <th></th>
+    </tr>
+
+    @*@foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdRegla)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdPersonalidadOcupacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdAreaOcupacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCarrera1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCarrera2)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCarrera3)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }*@
+
+</table>

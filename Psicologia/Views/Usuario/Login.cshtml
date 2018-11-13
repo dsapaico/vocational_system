@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<link rel="stylesheet" href="~/Content/css/login.css" />
+
+@using (Html.BeginForm())
+{
+    <div class="wrapper fadeInDown" style="margin: 130px 0px">
+        <div id="formContent">
+            <div class="fadeIn first">
+                <h1>Sistema de orientación vocacional</h1>
+            </div>
+            <form>
+                <input type="text" id="login" class="fadeIn second" name="login" placeholder="Identidad">
+                <input type="text" id="password" class="fadeIn third" name="login" placeholder="Contraseña">
+                <input type="submit" class="fadeIn fourth" value="Log In">
+            </form>
+            <div id="formfooter">
+                <a class="underlinehover" href="#">go to the site</a>
+            </div>
+        </div>
+    </div>
+}
+
+</table>

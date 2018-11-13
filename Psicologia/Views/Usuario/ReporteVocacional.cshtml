@@ -1,0 +1,72 @@
+﻿@*@model IEnumerable<Psicologia.Models.Usuario>*@
+
+@{
+    ViewBag.Title = "ReporteVocacional";
+}
+
+<h2>Reporte Vocacional</h2>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 810px ;margin: 0px 0px 20px 0px">
+    <label class="control-label">Grado : </label> <input type="text" class="form-control" />
+    <label class="control-label">Sección : </label> <input type="text" class="form-control" />
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:center; width: 810px ;margin: 0px 0px 20px 0px">
+    <label class="control-label">Periodo : </label>
+    <select class="form-control">
+        <option>Elegir</option>
+        <option>2018</option>
+        <option>2019</option>
+    </select>
+    <select class="form-control">
+        <option>Elegir</option>
+        <option>1</option>
+        <option>2</option>
+    </select>
+</div>
+    <input type="submit" value="Agregar" class="btn btn-primary" style="margin-bottom:25px" />
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Nombres")
+        </th>
+        <th>
+            @Html.DisplayName("Apellidos")
+        </th>
+        <th>
+            @Html.DisplayName("FechaNacimiento")
+        </th>
+        <th>
+            @Html.DisplayName("Dni")
+        </th>
+        <th></th>
+    </tr>
+
+    @*@foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaNacimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dni)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }*@
+    @*@Html.ActionLink("Registrar Alumno", "RegistroUsuario", new { /* id=item.PrimaryKey */ })*@
+</table>
